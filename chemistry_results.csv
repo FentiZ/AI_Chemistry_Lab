@@ -1,0 +1,11 @@
+﻿molecule_name,formula,smiles,predicted_property,predicted_value
+Этанол,C2H6O,CCO,Water solubility (log10 mol/L),
+Уксусная кислота,C2H4O2,CC(=O)O,Water solubility (log10 mol/L),
+Бензол,C6H6,C1=CC=CC=C1,Water solubility (log10 mol/L),
+Метанол,CH4O,CO,Water solubility (log10 mol/L),
+Ацетон,C3H6O,CC(=O)C,Water solubility (log10 mol/L),
+Толуол,C7H8,Cc1ccccc1,Water solubility (log10 mol/L),
+Фенол,C6H6O,Oc1ccccc1,Water solubility (log10 mol/L),
+Этиленгликоль,C2H6O2,OCCO,Water solubility (log10 mol/L),
+Глицерин,C3H8O3,OCC(O)CO,Water solubility (log10 mol/L),
+Гексан,C6H14,CCCCCC,Water solubility (log10 mol/L),
